@@ -1,5 +1,5 @@
-**Automation Testing "Rakamin-saucedemo"
-**
+Automation Testing "Rakamin-saucedemo"
+
 Automation Testing menggunakan Selenium dan Cucumber pada website https://www.saucedemo.com/ sebagai salah satu latihan pembelajaran dari Rakamin Academy.
 
 Terdapat 5 Features yang di automasikan (belum semua feature):
